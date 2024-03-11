@@ -19,7 +19,7 @@ Footer Section: Divided into several panels with links to different sections of 
     
 Here you can see the images of amazon cloning which I have done:
 
-
+![Screenshot 2024-03-11 184754](https://github.com/ranchu01/website-clowning-amazon/assets/120158502/e4d04fb2-a4ec-4899-95eb-fcad85e6bfa5)
 
 
 
